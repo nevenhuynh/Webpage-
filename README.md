@@ -1,2 +1,2 @@
 # Webpage-
-An app that simply opens a webpage
+An app that opens a webpage
